@@ -2,9 +2,8 @@ package com.jagetools.mail;
 
 /**
  * 常用邮箱的smtp服务器地址 未开启SSL的话，默认端口为25，要使用smtp/pop3等，必须先开启该功能，否则发送不出去
- * 
- * @author steve
  *
+ * @author steve
  */
 public class MailHost {
 
